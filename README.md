@@ -110,7 +110,7 @@ Licensed under [MIT](LICENSE) — free to fork, contribute, and use in learning 
 
 ## 📌 SEO Tags
 
-`PUBG Aimbot UI`, `PUBG ESP Visualization`, `PUBG Wallhack Interface`, `PUBG Radar Simulation`, `PUBG No Recoil Trainer`, `Simulated PUBG Cheat Menu`, `PUBG Hack UI for Education`, `Game Cheat UI Simulator`, `PUBG Cheat Detection Training`, `PUBG Security UX Design`, `PUBG Hack Interface Demo`
+`PUBG Aimbot`, `PUBG ESP`, `PUBG Wallhack`, `PUBG Radar`, `PUBG No Recoil`, `PUBG Cheat`, `PUBG Hack`, `Game Cheat UI Simulator`, `PUBG Cheat Detection Training`, `PUBG Security UX Design`, `PUBG Hack Interface Demo`
 
 ---
 
