@@ -5,8 +5,6 @@
 
 ## PUBG Cheat
 
-[![Join Our Discord](https://img.shields.io/discord/your-server-id?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.gg/your-invite-link)
-
 Welcome to the **PUBG Cheat with Aimbot Menu**, a high-fidelity visual replica of the most common cheating tools found in PUBG, including **Aimbot**, **ESP**, **Wallhack**, **Radar**, and **No Recoil** modules. This is a **functional**, **ethical**, and **educational project** meant to give insight into how cheating software is structured — without modifying any game files or violating terms of service.
 
 ---
@@ -119,9 +117,3 @@ Licensed under [MIT](LICENSE) — free to fork, contribute, and use in learning 
 ## 📢 Community
 
 > [![Join our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2&label=Join%20Discord&logo=discord&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
-
----
-
-## 🔖 200-Character SEO Repo Description
-
-Simulated PUBG Cheat Menu with UI for Aimbot, ESP, Wallhack, Radar, and No Recoil. A safe and legal visual tool for anti-cheat research, education, UX design, and ethical software analysis.
